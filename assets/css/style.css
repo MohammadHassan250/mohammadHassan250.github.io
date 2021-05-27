@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@font-face {
+	font-family: glacial;
+	src: url(../css/fonts/GlacialIndifference-Regular.otf);
+}
+
+h1,h2,h3,h4,h5,h6,p,a{
+	font-family: GlacialIndifference;
+}
+
+.topbar{
+	background-color: #ea0104;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+
+.top-left{
+	margin-top: 3px;
+	margin-left: 70px;
+}
+
+.top-left ul li a{
+	color: white;
+	font-size: 20px;
+}
+
+.bor-right{
+	border-right: 1px solid white;
+	margin-left: 20vh;
+}
+.top-left ul li{
+    display: inline-block;
+    font-size: 16px;
+}
+
+.gmail{
+
+	margin-left: 20px;
+}
+
+.top-right i{
+	color: #fff;
+	font-size: 13px;
+	padding-right: 10px;
+}
+.top-right ul li a{
+	color: white;
+	padding-right: 20px;
+	font-family: GlacialIndifference;
+ }
+
+ .top-right ul{
+ 	display: inline-block;
+ 	padding: 0;
+ }
+
+ .navbar-light .navbar-brand img{
+ 	width:60%;
+    margin-left: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	font-weight: 500;
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-left: 50px;
+	padding:0 ;
+	position: relative;
+	box-sizing: border-box;
+}
+
+.navbar-light .navbar-nav .nav-link span{
+	position: absolute;
+	right: -27px;
+}
+
+.slide-image img{
+	width: 100%;
+
+}
+
+.set-slide{
+	position: relative;
+	
+}
+
+.set-top{
+	position: absolute;
+	bottom: 100px;
+	right: 494px;
+	
+}
+
+.set-top h1{
+	font-size:80px;
+	text-align: center;
+	color: white;
+	line-height: 70px;
+}
+
+.set-top p{
+	text-align: center;
+	color: white;
+	line-height: 20px;
+}
+
+.set-top a{
+	margin-bottom: 40px;
+	color: #fff;
+	border: 1px solid white;
+    display: block;
+    text-align: center;
+    width: 280px;
+    height: 70px;
+    line-height: 70px;
+    margin:0 auto ;
+    font-size: 20px;
+
+ }
+
+ .set-top img {
+    margin-left: 257px;
+    margin-top: 23px;
+}
+
+.three-img{
+	margin-left: 60px;
+}
+
+.three-img img{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.indus img{
+	width: 100%;
+}
+
+.indus h1{
+	font-size: 46px;
+	color: white;
+	margin-top: -76px;
+	margin-left: 16px;
+}
+
+.indus-work i{
+	color: black;
+}
+
